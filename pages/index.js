@@ -1,6 +1,9 @@
 export default function Home() {
   return (
-    <div>My Portfolio Website</div>
+    <div>
+      <h1>Yalçın</h1>
+      <div>My Portfolio Website</div>
+    </div>
   )
 }
 
